@@ -8,7 +8,7 @@ Estudo Ciência da Computação na Universidade São Judas Tadeu
 </p>
 
 <p align="left">
- 🚀 Linguagens: <strong>Python,SQL </strong>.
+ 🚀 Linguagens: <strong>Python, SQL, R </strong>.
 </p>
 
 <p align="left">
