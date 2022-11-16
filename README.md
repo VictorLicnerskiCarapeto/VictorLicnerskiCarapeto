@@ -1,4 +1,4 @@
-<img src="https://itconnect.uw.edu/wp-content/uploads/2022/08/computer-workstation.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://itconnect.uw.edu/wp-content/uploads/2022/08/computer-workstation.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
 
