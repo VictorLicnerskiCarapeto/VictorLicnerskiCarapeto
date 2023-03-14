@@ -23,6 +23,5 @@ Estudo Ciência da Computação na Universidade São Judas Tadeu
 
   <a href="https://www.linkedin.com/in/victorlicnerskicarapeto/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brenoabdala" /></a>
-
+  <img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif"/>
 </p>
-!https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif
