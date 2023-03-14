@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" min-width="250px" max-width="250px" width="250px" align="right"/>
+<img src="https://user-images.githubusercontent.com/61326775/225127328-29ed64da-f2bf-4cf7-99e7-368d87dc3b14.gif" min-width="250px" max-width="250px" width="250px" align="right"/>
 <p align="left">
 
 Olá, meu nome é Victor Licnerski Carapeto.<br>
