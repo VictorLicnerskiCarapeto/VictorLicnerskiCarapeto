@@ -1,4 +1,3 @@
-#<img src="https://itconnect.uw.edu/wp-content/uploads/2022/08/computer-workstation.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador">
 <img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" min-width="250px" max-width="250px" width="250px" align="right"/>
 <p align="left">
 
