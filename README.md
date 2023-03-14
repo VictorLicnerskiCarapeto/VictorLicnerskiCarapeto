@@ -14,7 +14,6 @@ Estudo Ciência da Computação na Universidade São Judas Tadeu
 
 <p align="left">
   💼 Contato: <br>
-  
 </p>
 
 <p align="left">
