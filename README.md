@@ -24,6 +24,7 @@ Estudo Ciência da Computação na Universidade São Judas Tadeu
   📚 Notebook de estudo: <br>
 </p>
 <p align="left">
-  <a href="https://colab.research.google.com/drive/188NitI9Tiyy-_UUsyasOgl9OMTv0n1Q6?authuser=2#scrollTo=W9l0Pc9VsjbX" alt="Google Colab">
+  <a href="https://colab.research.google.com/drive/1Tf7vijUpEKSGyutxdM5XFBsWkzmHvqUO?authuser=2#scrollTo=MNX68eSS_zuf" alt="Google Colab">
   <img src="https://user-images.githubusercontent.com/61326775/228035711-f883ba58-4ef7-470b-9886-bb2c6026a879.PNG" width="50px" /></a>
 </p>
+
